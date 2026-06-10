@@ -353,7 +353,7 @@ export default function App() {
                 PRO Retro-Arcade Console
               </div>
               <h2 className="text-4xl font-extrabold tracking-tight text-white">
-                3Dスタジアム<span className="text-amber-500">野球ゲーム</span>
+                野球スタジアム<span className="text-amber-500">野球ゲーム</span>
               </h2>
               <p className="text-sm text-slate-400 max-w-sm mx-auto leading-relaxed">
                 CPUと戦う3イニング制の本格的野球ゲーム！バッターとしての特大ホームラン、ピッチャーとしての魔球変化球、両方の魅力が楽しめます。
