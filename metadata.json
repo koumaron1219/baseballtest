@@ -1,0 +1,6 @@
+{
+  "name": "3D Baseball Game",
+  "description": "CPU対戦モード搭載の本格的3D野球ゲーム。バッティングとピッチングの両方をプレイ可能な3イニング制マッチ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
